@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Amaryllis</title>
-	<link>/categories/</link>
+	<link>https://amaryllisc96.github.io/categories/</link>
 	<description>Recent content in Categories on Amaryllis</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://amaryllisc96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	</channel>

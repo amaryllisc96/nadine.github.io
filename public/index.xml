@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Amaryllis</title>
-	<link>/</link>
+	<link>https://amaryllisc96.github.io/</link>
 	<description>Recent content on Amaryllis</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://amaryllisc96.github.io/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title></title>
-		<link>/acne_guide/</link>
+		<link>https://amaryllisc96.github.io/acne_guide/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>/acne_guide/</guid>
+		<guid>https://amaryllisc96.github.io/acne_guide/</guid>
 		<description>&lt;h1 id=&#34;acne-report-by-nadine&#34;&gt;Acne Report (by Nadine)&lt;/h1&gt;
 &lt;p&gt;According to &lt;a href=&#34;https://www.hopkinsmedicine.org/health/conditions-and-diseases/acne&#34;&gt;someone&lt;/a&gt;, acne is a &amp;ldquo;disorder of the hair follicles and sebaceous glands&amp;hellip; sebaceous glands secrete oils to keep the skin moist, but clogged glands (because of buildup in hair follicles) lead to pimples and cysts&amp;rdquo;. The primary causes of acne are agreed to be&lt;/p&gt;
 &lt;ol&gt;
@@ -51,10 +51,10 @@
 	
 	<item>
 		<title></title>
-		<link>/addiction/</link>
+		<link>https://amaryllisc96.github.io/addiction/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>/addiction/</guid>
+		<guid>https://amaryllisc96.github.io/addiction/</guid>
 		<description>&lt;h1 id=&#34;addictions&#34;&gt;Addictions&lt;/h1&gt;
 </description>
 	</item>

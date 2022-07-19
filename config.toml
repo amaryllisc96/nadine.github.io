@@ -1,5 +1,5 @@
-#baseURL = "/"
-relativeURLs = true
+baseURL = "https://amaryllisc96.github.io"
+#relativeURLs = true
 languageCode = 'en-us'
 title = 'Amaryllis'
 theme = 'lugo'
