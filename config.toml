@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+#baseURL = "/"
+relativeURLs = true
 languageCode = 'en-us'
-title = 'Nadine'
-theme= "lugo"
+title = 'Amaryllis'
+theme = 'lugo'

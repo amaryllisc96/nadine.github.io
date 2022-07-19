@@ -1,22 +1,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>Nadine</title>
-	<link>http://example.org/</link>
-	<description>Recent content on Nadine</description>
+	<title>Amaryllis</title>
+	<link>/</link>
+	<description>Recent content on Amaryllis</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 26 Jun 2022 11:41:16 -0400</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Ports</title>
-		<link>http://example.org/ports/</link>
-		<pubDate>Sun, 26 Jun 2022 11:41:16 -0400</pubDate>
+		<title></title>
+		<link>/acne_guide/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://example.org/ports/</guid>
-		<description></description>
+		<guid>/acne_guide/</guid>
+		<description>&lt;h1 id=&#34;acne-report-by-nadine&#34;&gt;Acne Report (by Nadine)&lt;/h1&gt;
+&lt;p&gt;According to &lt;a href=&#34;https://www.hopkinsmedicine.org/health/conditions-and-diseases/acne&#34;&gt;someone&lt;/a&gt;, acne is a &amp;ldquo;disorder of the hair follicles and sebaceous glands&amp;hellip; sebaceous glands secrete oils to keep the skin moist, but clogged glands (because of buildup in hair follicles) lead to pimples and cysts&amp;rdquo;. The primary causes of acne are agreed to be&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hormone changes (e.g., from menstrual cycles, pregnancy, birth control pills).&lt;/li&gt;
+&lt;li&gt;Diet&lt;/li&gt;
+&lt;li&gt;Certain medicines (e.g., corticosteroids, lithium, or barbiturates).&lt;/li&gt;
+&lt;li&gt;Genetics&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A popular hypothesis argues acne is primarily a disease of modern civilization, and in particular, the modern diet. The prevalence of acne among so-called primitives who eat a non-Western diet is near nilch (see &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27651516/&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1054139X97002772&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12472346/&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1054139X97002772&#34;&gt;here&lt;/a&gt;, and &lt;a href=&#34;https://journals.lww.com/nutritiontodayonline/Citation/1977/05000/When_the_Eskimo_Comes_to_Town_.7.aspx&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;h2 id=&#34;diet&#34;&gt;Diet&lt;/h2&gt;
+&lt;p&gt;The three major food classes which promote acne seem to be (cf. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4507494/&#34;&gt;Melnik, 2015&lt;/a&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hyperglycemic carbohydrates (e.g., white and whole wheat bread, white rice, cereal, cakes, sweets, potatoes, watermelon, pineapple).&lt;/li&gt;
+&lt;li&gt;Milk and dairy products.&lt;/li&gt;
+&lt;li&gt;Saturated fats including trans-fats (e.g., butter, cheese, ice cream, baked goods) and &lt;em&gt;deficient&lt;/em&gt; omega-3 polyunsaturated fatty acids (PUFAs) (e.g., need enough of fish, seeds, tofu, eggs).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Other commonly suspected causes/triggers of acne are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sugar and processed carbs &amp;ndash; these spike insulin levels which induce your inflamed sebaceous glands to produce more sebum which can lead to more clogging.&lt;/li&gt;
+&lt;li&gt;Soy &amp;ndash; affects estrogen and androgen levels which can also inflame sebaceous glands.&lt;/li&gt;
+&lt;li&gt;Peanuts and peanut butter &amp;ndash; contains androgen-like material which can affect hormones.&lt;/li&gt;
+&lt;li&gt;Alcohol &amp;ndash; also raises certain hormone levels. It also dehydrates you, drying out your skin (which induces skin to produce more oil&amp;hellip;).&lt;/li&gt;
+&lt;li&gt;Gluten (e.g., bread, baked goods, beer, crackers) &amp;ndash; some people have mild gluten allergies manifesting in inflammation/acne and they don&amp;rsquo;t know it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;lifestyle-tips&#34;&gt;Lifestyle Tips&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Use a gentle cleanser (e.g., Cerave Hydrating Cleanser) &amp;ndash; heavier cleansers dehydrate skin, can cause irritation, and change the natural pH of your skin.&lt;/li&gt;
+&lt;li&gt;Moisturize skin often &amp;ndash; as said above in the comment about alcohol, you want to avoid dry skin.&lt;/li&gt;
+&lt;li&gt;Drink more water (e.g., 3 liters a day is a good amount) &amp;ndash; ditto.&lt;/li&gt;
+&lt;li&gt;Sweat more &amp;ndash; sweat flushes out your pores, but probably recommended to wash afterwards so residue does not stick to your skin.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+	</item>
+	
+	<item>
+		<title></title>
+		<link>/addiction/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>/addiction/</guid>
+		<description>&lt;h1 id=&#34;addictions&#34;&gt;Addictions&lt;/h1&gt;
+</description>
 	</item>
 	
 	</channel>

@@ -1,8 +1,51 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;600&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Noto Sans');
+
+
 body {
-	font-style: sans-serif ;
-	background: #100 ;
-	color: #ddd ;
+  background-color: #fdf6e3 /*#93ff8e /* #ecf0f1 #964d94*/;
+font-family: 'Noto Sans', sans-serif;
 }
+
+h1 {
+color: #d33682;
+text-align: left;
+font-size: 26px;
+font-family: 'Noto Sans', sans-serif;
+}
+
+
+h2 {
+  color: #d33682 /*#5b5b5b /*#FFFFFF*/;
+  text-align: left;
+  font-size: 24px;
+font-family: 'Noto Sans', sans-serif;
+}
+
+
+h3 {
+  color: #d33682 /*#5b5b5b /*#FFFFFF*/;
+  text-align: left;
+  font-size: 22px;
+font-family: 'Noto Sans', sans-serif;
+}
+
+p, ul, li {
+  color:  #586e75 /*#5b5b5b /*#FFFFFF*/;
+  font-size: 20px;
+font-family: 'Noto Sans', sans-serif;
+}
+
+a {
+  color:  #268bd2 /* #c90076 /* #3d85c6 /* #afbeff */;
+font-family: 'Noto Sans', sans-serif;
+}
+
+a:hover {
+	color:#859900;
+}
+
+/* old */
 
 .lw, p img, li img, h1 img, h2 img, h3 img, h4 img, dt img, td img {
 	max-height: 1em;
@@ -13,20 +56,22 @@ body {
 img { max-width: 100% ; }
 
 main {
-	max-width: 800px ;
+	/*max-width: 1000px ;*/
 	margin: auto ;
 }
 
 header h1 {
-	text-align: center ;
+	text-align: left ;
 }
 
+/*
 h1,h2,h3,h4,h5,h6 {
 	text-align: center ;
 }
+*/
 
 nav,footer {
-	text-align: center ;
+	text-align: left ;
 	clear: both ;
 	border-radius: 20px ;
 	margin: auto ;
