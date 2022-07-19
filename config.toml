@@ -3,3 +3,4 @@ baseURL = "https://amaryllisc96.github.io"
 languageCode = 'en-us'
 title = 'Amaryllis'
 theme = 'lugo'
+publishDir = "docs"
