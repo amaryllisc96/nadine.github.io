@@ -1,0 +1,16 @@
+# ignore files by extension
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.snm
+*.bbl
+*.nav
+*~
+
+# ignore files by name
+
+public/
